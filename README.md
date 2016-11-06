@@ -6,3 +6,6 @@
 
 #Logging first name again but this time we use the firstName variable..
 
+
+#Logging placeholders..
+
