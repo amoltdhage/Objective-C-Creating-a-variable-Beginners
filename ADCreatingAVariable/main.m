@@ -10,8 +10,20 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        
+        NSLog(@"Amol");
+        
+        //Now Creating a variable
+        
+        NSString *firstName = @"AmolTD";
+        
+    // here *firstName is a variable
+      
+        
+   // Now Log your first name again but this time use the firstName variable
+        
+        NSLog(firstName);
+        
     }
     return 0;
 }
