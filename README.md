@@ -3,8 +3,6 @@
 
 # Creating a variable.. (here *firstName is a variable)
 
-/Users/AmolTDhage/Desktop/AD Objective C For-Beginners/ADCreatingAVariable/Screen Shot 2016-11-06 at 11.56.53 PM.png
-
 
 #Logging first name again but this time we use the firstName variable..
 
