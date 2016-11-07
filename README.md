@@ -25,3 +25,21 @@
 #Log a number object..
 
 
+#Creating an array variable..
+
+
+#Accessing values in an array..
+
+
+#Changing an array..
+
+
+#Creating a dictionary..
+
+
+#Accessing values in a dictionary..
+
+
+
+
+
