@@ -64,6 +64,19 @@ int main(int argc, const char * argv[]) {
         
         NSLog(@"%@", details[3]);
         
+        
+  //Changing an array..
+        
+        details = @[@"Amol", @"Dhage", @"iOS Developer", @"GitHub Account",@"Repository",@"Contributions"];
+        
+        
+  //Creating a dictionary..
+        
+  NSDictionary *detailsInfomation = @{@"GitHub": @3, @"Repository": @5};
+        
+  //Accessing values in a dictionary..
+        
+        NSLog(@"This is a New Project %@",@"Repository");
     }
     return 0;
 }
