@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
-        NSLog(@"Hello i am Amol");
+        NSLog(@"Hello i am AmolTDhage");
         
         //Now Creating a variable
         
@@ -22,7 +22,7 @@ int main(int argc, const char * argv[]) {
         
    // Now Log your first name again but this time use the firstName variable
         
-        NSLog(firstName);
+        NSLog(@"%@ ", firstName);
         
         
    //Logging placeholders
@@ -53,6 +53,16 @@ int main(int argc, const char * argv[]) {
   // Log a number object..
         
         NSLog(@"%@ is %@ years old", firstName, age);
+        
+        
+  //Creating an array variable..
+        
+       NSArray *details = @[@"Amol", @"Dhage",
+                            @"iOS Developer", @"GitHub Account"];
+  
+  //Accessing values in an array..
+        
+        NSLog(@"%@", details[3]);
         
     }
     return 0;
