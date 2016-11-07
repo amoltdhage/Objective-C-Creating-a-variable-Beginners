@@ -17,3 +17,11 @@
 
 
 #Logging two variables..
+
+
+#Creating a number object..
+
+
+#Log a number object..
+
+
