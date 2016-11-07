@@ -29,6 +29,12 @@ int main(int argc, const char * argv[]) {
         
     NSLog(@"Hello there, %@.", firstName);
      
+        
+        
+//    NSLog[] Placeholders
+        
+        NSLog(@"%@ %@", firstName, firstName);
+        
     }
     return 0;
 }
