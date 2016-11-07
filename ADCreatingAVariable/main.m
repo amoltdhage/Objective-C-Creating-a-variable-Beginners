@@ -40,10 +40,19 @@ int main(int argc, const char * argv[]) {
         
         NSString *lastName = @"Dhage";
         
+        
   //Logging two variables..
         
         NSLog(@"%@ %@", firstName, lastName);
         
+        
+  //Creating a number object..
+        
+        NSNumber *age = @25;
+        
+  // Log a number object..
+        
+        NSLog(@"%@ is %@ years old", firstName, age);
         
     }
     return 0;
