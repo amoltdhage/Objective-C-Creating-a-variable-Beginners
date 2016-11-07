@@ -12,3 +12,8 @@
 
 #NSLog() placeholders..
 
+
+#Now Creating another variable..
+
+
+#Logging two variables..
