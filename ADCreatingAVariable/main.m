@@ -11,11 +11,11 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
-        NSLog(@"Amol");
+        NSLog(@"Hello i am Amol");
         
         //Now Creating a variable
         
-        NSString *firstName = @"AmolTD";
+        NSString *firstName = @"Amol";
         
     // here *firstName is a variable
       
@@ -31,9 +31,19 @@ int main(int argc, const char * argv[]) {
      
         
         
-//    NSLog[] Placeholders
+  // NSLog[] Placeholders..
         
         NSLog(@"%@ %@", firstName, firstName);
+        
+        
+  // Now Creating another variable..
+        
+        NSString *lastName = @"Dhage";
+        
+  //Logging two variables..
+        
+        NSLog(@"%@ %@", firstName, lastName);
+        
         
     }
     return 0;
